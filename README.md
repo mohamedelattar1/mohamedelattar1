@@ -4,7 +4,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
-
 public class SICKXEProject12h {
     public static int[] locationCounter=new int[1000];
     public static String[] LocatorinHex=new String [1000];
